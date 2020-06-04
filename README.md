@@ -1,4 +1,4 @@
 # IJC - domaci ukol 2
 
 # Hodnoceni
-- ?? / 15
+- 13.5 / 15
